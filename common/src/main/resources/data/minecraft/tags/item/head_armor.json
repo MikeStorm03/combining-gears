@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:copper_helmet",
+        "combining_gears:turtle_leather",
+        "combining_gears:turtle_copper",
+        "combining_gears:turtle_chainmail",
+        "combining_gears:turtle_iron",
+        "combining_gears:turtle_gold",
+        "combining_gears:turtle_diamond",
+        "combining_gears:turtle_netherite"
+    ]
+}

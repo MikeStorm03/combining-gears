@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "minecraft:diamond_boots"
+    },
+    "addition": {
+        "item": "minecraft:green_wool"
+    },
+    "result": {
+        "id": "combining_gears:leather_diamond",
+        "components": {
+            "combining_gears:leatherer_boots_wool": 13
+        },
+        "count": 1
+    },
+    "template": {
+        "item": "minecraft:leather_boots"
+    }
+}

@@ -9,7 +9,9 @@
     "LivingEntityMixin",
     "PowderSnowBlockMixin"
   ],
-  "client": [],
+  "client": [
+    "ElytraLayerMixin"
+  ],
   "server": [],
   "injectors": {
     "defaultRequire": 1

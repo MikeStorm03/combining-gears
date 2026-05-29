@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:copper_chestplate",
+        "combining_gears:elytra_leather",
+        "combining_gears:elytra_copper",
+        "combining_gears:elytra_chainmail",
+        "combining_gears:elytra_iron",
+        "combining_gears:elytra_gold",
+        "combining_gears:elytra_diamond",
+        "combining_gears:elytra_netherite"
+    ]
+}

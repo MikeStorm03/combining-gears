@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "minecraft:netherite_boots"
+    },
+    "addition": {
+        "item": "minecraft:black_wool"
+    },
+    "result": {
+        "id": "combining_gears:leather_netherite",
+        "components": {
+            "combining_gears:leatherer_boots_wool": 15
+        },
+        "count": 1
+    },
+    "template": {
+        "item": "minecraft:leather_boots"
+    }
+}

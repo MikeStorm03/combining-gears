@@ -4,7 +4,9 @@
   "package": "com.msg.combining_gears.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [],
-  "client": [],
+  "client": [
+    "ElytraLayerMixin"
+  ],
   "server": [],
   "injectors": {
     "defaultRequire": 1

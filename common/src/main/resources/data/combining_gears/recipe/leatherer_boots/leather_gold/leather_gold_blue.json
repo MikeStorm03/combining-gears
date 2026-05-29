@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "minecraft:golden_boots"
+    },
+    "addition": {
+        "item": "minecraft:blue_wool"
+    },
+    "result": {
+        "id": "combining_gears:leather_gold",
+        "components": {
+            "combining_gears:leatherer_boots_wool": 11
+        },
+        "count": 1
+    },
+    "template": {
+        "item": "minecraft:leather_boots"
+    }
+}

@@ -22,7 +22,7 @@ import net.minecraft.world.level.gameevent.GameEvent;
 
 public class ElytraChestplate extends ArmorItem {
 
-    public ElytraChestplate(String name, int defense, int enchantmentValue, Holder<SoundEvent> sound, ItemLike repairItem, int toughness, int knockbackResistance, Properties properties) {
+    public ElytraChestplate(String name, int defense, int enchantmentValue, Holder<SoundEvent> sound, ItemLike repairItem, int toughness, float knockbackResistance, Properties properties) {
         super(Registry.registerForHolder(BuiltInRegistries.ARMOR_MATERIAL,
                                                                         Common.resourcesLocation(name),
                                                                         new ArmorMaterial(

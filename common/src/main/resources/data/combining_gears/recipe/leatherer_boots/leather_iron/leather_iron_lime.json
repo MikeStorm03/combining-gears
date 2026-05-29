@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "minecraft:iron_boots"
+    },
+    "addition": {
+        "item": "minecraft:lime_wool"
+    },
+    "result": {
+        "id": "combining_gears:leather_iron",
+        "components": {
+            "combining_gears:leatherer_boots_wool": 5
+        },
+        "count": 1
+    },
+    "template": {
+        "item": "minecraft:leather_boots"
+    }
+}

@@ -5,11 +5,11 @@
   "refmap": "${mod_id}.refmap.json",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "PlayerMixin"
+    "ArmorMaterialsMixin",
+    "PlayerMixin",
+    "PiglinAiMixin"
   ],
-  "client": [
-    "ElytraLayerMixin"
-  ],
+  "client": [],
   "server": [],
   "injectors": {
     "defaultRequire": 1

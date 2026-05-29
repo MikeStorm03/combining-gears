@@ -1,4 +1,5 @@
 {
+    "itemgroup.combined_gears": "Giáp kết hợp",
     "item.combining_gears.turtle_leather": "Mũ rùa bọc da",
     "item.combining_gears.turtle_copper": "Mũ rùa đồng",
     "item.combining_gears.turtle_chainmail": "Mũ rùa bọc xích",
@@ -18,5 +19,6 @@
     "item.combining_gears.leather_iron": "Ủng sắt đế da",
     "item.combining_gears.leather_gold": "Ủng vàng đế da",
     "item.combining_gears.leather_diamond": "Ủng kim cương đế da",
-    "item.combining_gears.leather_netherite": "Ủng Netherite đế da"
+    "item.combining_gears.leather_netherite": "Ủng Netherite đế da",
+    "item.combining_gears.wool_corlor.info": "Màu len: %s"
 }

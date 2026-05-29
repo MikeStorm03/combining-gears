@@ -1,4 +1,5 @@
 {
+    "itemgroup.combined_gears": "Combined Gears",
     "item.combining_gears.turtle_leather": "Leather Wrap Turtle Helmet",
     "item.combining_gears.turtle_copper": "Turtle Copper Helmet",
     "item.combining_gears.turtle_chainmail": "Chainmail Wrap Turtle Helmet",
@@ -18,5 +19,6 @@
     "item.combining_gears.leather_iron": "Iron Leather Outsole Boots",
     "item.combining_gears.leather_gold": "Gold Leather Outsole Boots",
     "item.combining_gears.leather_diamond": "Diamond Leather Outsole Boots",
-    "item.combining_gears.leather_netherite": "Netherite Leather Outsole Boots"
+    "item.combining_gears.leather_netherite": "Netherite Leather Outsole Boots",
+    "item.combining_gears.wool_corlor.info": "Wool Color: %s"
 }

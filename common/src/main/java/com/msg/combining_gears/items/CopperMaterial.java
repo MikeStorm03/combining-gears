@@ -24,7 +24,7 @@ public class CopperMaterial {
                                                                                 Type.BODY, 4
                                                                             )),
                                                                             8,
-                                                                            Gears.ARMOR_EQUIP_COPPER.get(),
+                                                                            Gears.ARMOR_EQUIP_COPPER,
                                                                             () -> Ingredient.of(Items.COPPER_INGOT),
                                                                             List.of(new ArmorMaterial.Layer(ResourceLocation.withDefaultNamespace("copper"))),
                                                                             0,
